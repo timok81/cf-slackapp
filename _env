@@ -1,0 +1,13 @@
+# Environment Config
+
+# store your secrets and config variables in here
+# only invited collaborators will be able to see your .env values
+
+# reference these in your code with process.env.SECRET
+
+SLACK_VERIFICATION_TOKEN=v0ZLONngPpOhkym88Kmz4bYB
+SLACK_OAUTH_TOKEN=xoxe.xoxp-1-Mi0yLTgyOTcwNTk2MjE5OTEtODMzNDQwNjk4MTc3Ni04MzM0NDg0NTcyOTc2LTgyOTcxMzcyMDE4OTUtZGU1MGU3MTVjODMyZDFlNmFjMWRiODM5ODFkYjYwNDg3N2JmMTFmNWRkNDAxYTBkNjY1NWNkY2JhZTkzMjA4Yw
+SLACK_WELCOME_CHANNEL=C94JDG811
+SLACK_POST_TO_CHANNEL=C95L1PEQG
+
+# note: .env is a shell file so there can't be spaces around =
